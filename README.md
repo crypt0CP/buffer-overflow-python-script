@@ -1,4 +1,4 @@
-# buffer-overflow-python-script
+# buffer-overflow-script
 
 <p>
 <h3>** First, You should find fuzzing.</h3>
